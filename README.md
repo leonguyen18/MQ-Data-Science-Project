@@ -42,7 +42,7 @@ Image source: [World Airline Star Rating](https://skytraxratings.com/about-airli
 - Calculate and plot the correlation matrix.
 - Identify features with high correlation to the target variable `Satisfaction`.
 
-### 2. Data Preparation and Model Setup
+### 2. Model Preparation and Setup
 #### Data Splitting and Scaling
 - Split the dataset into training (80%) and testing data (20%) using stratified sampling to handle class imbalance.
 - Use `RobustScaler` to scale the features while handling outliers.
