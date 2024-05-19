@@ -127,6 +127,8 @@ Image source: [World Airline Star Rating](https://skytraxratings.com/about-airli
 ### ROC Curve (AUC) Comparison
 The Tuned KNN model demonstrates the best overall performance, followed by the Simple KNN model, Logistic Regression, and Gaussian Naive Bayes.
 
+![ROC Curves Comparison](./output_ROC_curves.png)
+
 ## Contributing
 
 As this is an individual assignment, I am the main contributor. However, if you find any errors or areas of improvement, feel free to create an issue or submit a pull request.
